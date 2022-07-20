@@ -9,6 +9,7 @@
 <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/GeorgioFe/war-card-game?color=yellow&style=for-the-badge"/>
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/GeorgioFe/war-card-game?color=green&style=for-the-badge"/>
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/GeorgioFe/war-card-game?color=pink&style=for-the-badge"/>
+<img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/GeorgioFe/war-card-game?color=orange&style=for-the-badge"/>
 </div>
 
 # References
